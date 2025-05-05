@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FEqdkGmKx/0=",
+  "dgSpecHash": "4lsgWoPn7Dg=",
   "success": true,
   "projectFilePath": "/home/knoldus/Desktop/ParallelTesting/ParallelTestingWithCSharp/SeleniumGridParallel/SeleniumGridParallel.csproj",
   "expectedPackageFiles": [
@@ -20,9 +20,7 @@
     "/home/knoldus/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.4200/selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512",
     "/home/knoldus/.nuget/packages/selenium.webdriver.geckodriver/0.36.0/selenium.webdriver.geckodriver.0.36.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/selenium.webdriver.microsoftdriver/17.17134.0/selenium.webdriver.microsoftdriver.17.17134.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "/home/knoldus/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": [
     {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeleniumGridParallel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07b79da305b4b4b0a13454663dd4f4ec9331c36a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeleniumGridParallel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeleniumGridParallel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
